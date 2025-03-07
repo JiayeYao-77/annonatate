@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~282000~298873/canvas/c1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": " The library",
+            "purpose": "commenting",
+            "creator": {
+                "id": "JiayeYao-77",
+                "name": "JiayeYao-77"
+            },
+            "created": "2025-03-07T16:23:08.023Z",
+            "modified": "2025-03-07T16:23:10.691Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~282000~298873/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~282000~298873/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=597.9183959960938,652.3179931640625,1733.1052856445312,2222.0633544921875"
+        }
+    },
+    "id": "59b26b5d-796f-4c23-81e1-bace8736e843.json",
+    "motivation": "commenting"
+}
