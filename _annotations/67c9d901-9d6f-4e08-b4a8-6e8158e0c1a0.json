@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~282000~298873/canvas/c1"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "An illuminated manuscript",
+            "purpose": "commenting",
+            "creator": {
+                "id": "JiayeYao-77",
+                "name": "JiayeYao-77"
+            },
+            "created": "2025-03-07T16:23:45.573Z",
+            "modified": "2025-03-07T16:23:47.866Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~282000~298873/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~282000~298873/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"4626.902099609375\" cy=\"3409.099853515625\" r=\"976.1864771566497\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "67c9d901-9d6f-4e08-b4a8-6e8158e0c1a0.json",
+    "motivation": "commenting"
+}
