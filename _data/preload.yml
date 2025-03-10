@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2025-03-10 15:58:56.951545'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~53082~102878/full/!1024,1024/0/default.jpg
+  title: Engine room
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~53082~102878/manifest
+  user: JiayeYao-77
 settings: {}
 version: '2.1'
