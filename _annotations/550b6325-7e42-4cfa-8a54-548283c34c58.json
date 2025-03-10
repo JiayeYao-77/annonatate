@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~53082~102878/canvas/c1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "handyman Robert Clements",
+            "purpose": "commenting",
+            "creator": {
+                "id": "JiayeYao-77",
+                "name": "JiayeYao-77"
+            },
+            "created": "2025-03-10T16:01:42.382Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~53082~102878/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~53082~102878/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3710.621337890625,200.1942138671875,431.160400390625,1494.6866455078125"
+        }
+    },
+    "id": "550b6325-7e42-4cfa-8a54-548283c34c58.json",
+    "motivation": "commenting"
+}
