@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~53082~102878/canvas/c1"
+order: 4
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "James Winterbottom",
+            "purpose": "commenting",
+            "creator": {
+                "id": "JiayeYao-77",
+                "name": "JiayeYao-77"
+            },
+            "created": "2025-03-10T16:02:39.482Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~53082~102878/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~53082~102878/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3468.503173828125,59.817596435546875,301.66015625,1387.3052062988281"
+        }
+    },
+    "id": "eaaf7ae8-ba60-480d-bdf0-c5c59c22ace0.json",
+    "motivation": "commenting"
+}
