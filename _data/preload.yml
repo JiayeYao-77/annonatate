@@ -1,4 +1,10 @@
 images:
+- added: '2025-03-17 14:07:17.431236'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~282000~298873/full/!1024,1024/0/default.jpg
+  title: Unknown
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~282000~298873/manifest
+  user: JiayeYao-77
 - added: '2025-03-10 15:58:56.951545'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~53082~102878/full/!1024,1024/0/default.jpg
